@@ -1,5 +1,12 @@
 # Sertifikalarım
 
+![Python](images/python_sertifikası.png)
+
+![Makine](images/makine_sertifikası.png)
+
+
+
+
 # Smart Home Energy Prediction
 
 ## Projenin Amacı
@@ -124,6 +131,8 @@ Veri setindeki özelliklerin  farklı birim ve büyüklüklere sahip olması, ma
 ## Korelasyon Matrisi
 
 Özellikler arasındaki ilişkiyi gösteren ısı haritası aşağıdaki gibidir:
+
+![HeatMap](images/final_heatmap.png)
 
 ## Model Performansı
 
