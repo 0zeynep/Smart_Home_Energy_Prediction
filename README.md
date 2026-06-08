@@ -1,12 +1,3 @@
-# Sertifikalarım
-
-![Python](images/python_sertifikası.png)
-
-![Makine](images/makine_sertifikası.png)
-
-
-
-
 # Smart Home Energy Prediction
 
 ## Projenin Amacı
